@@ -1,0 +1,2 @@
+# dnsIpAndNetworkSpeedCheck
+获取当前网络的dns地址；根据域名获取对应的ip地址；网速检测
